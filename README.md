@@ -2,7 +2,7 @@
 - 👀 I’m interested Java, Web, MySQL.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on Java, web development.
-- 📫 How to reach me ansariakhlaq1411@gmail.com
+- 📫 How to reach me ansariakhlaq1211@gmail.com
 
 <!---
 AkhlaqAns/AkhlaqAns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
